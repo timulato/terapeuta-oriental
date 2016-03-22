@@ -78,10 +78,10 @@ description = "You have to make your websites with love these days!"
 
 # Portfolio modals
 [params.portfolio.modal]
-client = "Client"
-date = "Date"
-category = "Category"
-buttonText = "Close"
+client = "Cliente"
+date = "Data"
+category = "Categoria"
+buttonText = "Fechar"
 
 # Aside section
 [params.aside]
