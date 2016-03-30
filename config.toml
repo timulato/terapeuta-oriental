@@ -1,4 +1,4 @@
-baseurl = "http://www.terapeuta-oriental.com/"
+baseurl = "http://jxonas.github.io/terapeuta-oriental"
 languageCode = "pt-br"
 title = "Tiago Mulato de Carvalho – Terapeuta Oriental"
 
@@ -7,7 +7,7 @@ title = "Tiago Mulato de Carvalho – Terapeuta Oriental"
 name = "Tiago Mulato de Carvalho"
 description = "Terapeuta Oriental"
 
-favicon = "favicon.ico"
+favicon = "favicon.png"
 
 # Navigation
 [params.navigation]
@@ -29,32 +29,42 @@ buttonText = "Técnicas"
 # About section
 [params.about]
 headline    = "Tiago Mulato de Carvalho"
-description = "Inserir breve resumo sobre Tiago Mulato de Carvalho, no máximo um parágrafo. Mais detalhes podem ser vistos clicando no botão abaixo."
-buttonText  = "Biografia"
+description = "Atua na área Oriental há 10 anos, praticante de Yoga e Meditação há 5 anos, inclui em seus tratamentos a visão holística do ser, entendendo que a base da saúde é o autoconhecimento."
+buttonText  = "Profissional"
 
 # Service section
 [params.services]
 headline = "Técnicas"
 
 [[params.services.list]]
-icon = "fa-diamond"
-title = "Sturdy Templates"
-description = "Our templates are updated regularly so they don't break."
+icon = "fa-circle-o"
+title = "Acupuntura"
+description = ""
 
 [[params.services.list]]
-icon = "fa-paper-plane"
-title = "Ready to Ship"
-description = "You can use this theme as is, or you can make changes!"
+icon = "fa-spinner"
+title = "Fitoterapia"
+description = ""
 
 [[params.services.list]]
-icon = "fa-newspaper-o"
-title = "Up to Date"
-description = "We update dependencies to keep things fresh."
+icon = "fa-circle-o"
+title = "Terapia Floral"
+description = ""
 
 [[params.services.list]]
-icon = "fa-heart"
-title = "Made with Love"
-description = "You have to make your websites with love these days!"
+icon = "fa-spinner"
+title = "Ventosaterapia"
+description = ""
+
+[[params.services.list]]
+icon = "fa-circle-o"
+title = "Moxabustão"
+description = ""
+
+[[params.services.list]]
+icon = "fa-spinner"
+title = "Auriculoterapia"
+description = ""
 
 
 [params.portfolio]
