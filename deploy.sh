@@ -16,5 +16,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin tiago
-git subtree push --force --prefix=public git@github.com:jxonas/terapeuta-oriental.git gh-pages
+git push --force origin tiago
+git subtree push --prefix=public git@github.com:jxonas/terapeuta-oriental.git gh-pages
