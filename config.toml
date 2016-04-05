@@ -39,33 +39,38 @@ headline = "Técnicas"
 [[params.services.list]]
 icon = "fa-circle-o"
 title = "Acupuntura"
+class = "Acupuntura"
 description = ""
 
 [[params.services.list]]
 icon = "fa-spinner"
 title = "Fitoterapia"
+class = "Fitoterapia"
 description = ""
 
 [[params.services.list]]
 icon = "fa-circle-o"
-title = "Terapia Floral"
-description = ""
-
-[[params.services.list]]
-icon = "fa-spinner"
 title = "Ventosaterapia"
+class = "Ventosaterapia"
 description = ""
 
 [[params.services.list]]
 icon = "fa-circle-o"
 title = "Moxabustão"
+class = "Moxabustao"
 description = ""
 
 [[params.services.list]]
 icon = "fa-spinner"
 title = "Auriculoterapia"
+class = "Auriculoterapia"
 description = ""
 
+[[params.services.list]]
+icon = "fa-spinner"
+title = "Terapia Floral"
+class = "TerapiaFloral"
+description = ""
 
 [params.portfolio]
 headline = "Saiba Mais"
